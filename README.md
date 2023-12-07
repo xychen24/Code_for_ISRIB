@@ -1,2 +1,2 @@
 # ISRIB
-Codes for the manuscript
+Code for the manuscript
